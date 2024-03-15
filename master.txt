@@ -1,2 +1,8 @@
 first master text for master branch
+<<<<<<< HEAD
 -THIS IS THE EDITED MASTER TXT FROM master Branch-
+=======
+- This file was edited from the master txt file in master branch -
+
+
+
