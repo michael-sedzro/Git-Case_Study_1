@@ -6,3 +6,12 @@ first master text for master branch
 
 
 
+console.log("Hello, world!");
+
+let person = {
+    name: "John",
+    age: 30,
+    gender: "Male"
+};
+console.log("Person:", person.name, "is", person.age, "years old.");
+
